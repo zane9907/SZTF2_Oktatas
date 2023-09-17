@@ -1,7 +1,14 @@
+## Első órai feladatról készült videó elérhető itt: https://youtu.be/OXfz8rSkuFE
+
+# Elérhetőség
+
+Teams: Antalóczy Botond  
+Email: antaloczy.botond@nik.uni-obuda.hu
+
 # SZTF2_Oktatas
 
-Itt lesznek megtalálhatóak az órai feladatok leírásai illetve a hozzájuk tartozó megoldások.
-Minden projekt .NET 6.0 verzióval készült.
+Itt lesznek megtalálhatóak az órai feladatok leírásai illetve a hozzájuk tartozó megoldások.  
+**Minden projekt .NET 6.0 verzióval készült.**
 
 # Visual Studio új projekt lérehozása:
   1.  Create a new project

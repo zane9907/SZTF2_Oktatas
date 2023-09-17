@@ -1,5 +1,10 @@
 ## Első órai feladatról készült videó elérhető itt: https://youtu.be/OXfz8rSkuFE
 
+# Elérhetőség
+
+Teams: Antalóczy Botond
+Email: antaloczy.botond@nik.uni-obuda.hu
+
 # SZTF2_Oktatas
 
 Itt lesznek megtalálhatóak az órai feladatok leírásai illetve a hozzájuk tartozó megoldások.

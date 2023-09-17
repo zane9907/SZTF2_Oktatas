@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ora_01", "Ora_01\Ora_01.csproj", "{C116372A-72B8-4F6A-9E23-58878B8201A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orai_kodok", "Orai_kodok", "{2E998264-3695-4770-BEA5-B72E869DF1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OraiKod_02", "OraiKod_02\OraiKod_02.csproj", "{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{C116372A-72B8-4F6A-9E23-58878B8201A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C116372A-72B8-4F6A-9E23-58878B8201A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C116372A-72B8-4F6A-9E23-58878B8201A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD2D543B-9007-4AF6-9E4C-15B8FE8B54B1} = {2E998264-3695-4770-BEA5-B72E869DF1EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74265AC9-342D-43F9-8DEA-CA079940114E}

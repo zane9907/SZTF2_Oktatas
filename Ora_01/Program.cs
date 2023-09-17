@@ -251,7 +251,7 @@
 
 
             //Kitörlünk egy adott id-jű személyt
-            s.Torles("SZ6572");
+            //s.Torles("SZ6572");
 
             ;
         }

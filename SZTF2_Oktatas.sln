@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orai_kodok", "Orai_kodok", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OraiKod_02", "OraiKodok\OraiKod_02\OraiKod_02.csproj", "{BF478848-BC97-4D0B-B1DC-898696BC9369}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ora_02", "Ora_02\Ora_02.csproj", "{E4B19CFF-7F40-4011-8164-532EED295E2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{BF478848-BC97-4D0B-B1DC-898696BC9369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF478848-BC97-4D0B-B1DC-898696BC9369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF478848-BC97-4D0B-B1DC-898696BC9369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B19CFF-7F40-4011-8164-532EED295E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B19CFF-7F40-4011-8164-532EED295E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B19CFF-7F40-4011-8164-532EED295E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B19CFF-7F40-4011-8164-532EED295E2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

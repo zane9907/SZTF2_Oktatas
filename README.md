@@ -1,5 +1,3 @@
-## Első órai feladatról készült videó elérhető itt: https://youtu.be/OXfz8rSkuFE
-
 # Elérhetőség
 
 Teams: Antalóczy Botond  
